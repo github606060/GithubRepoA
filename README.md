@@ -1,2 +1,3 @@
 # GithubRepoA
-Github Repository A
+Github Repository A. 
+The code is the sample.
